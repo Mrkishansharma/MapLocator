@@ -1,0 +1,27 @@
+#box1{
+    background-color: grey;
+    border: 5px outset red;
+    text-align: center
+}
+
+#box2{
+    background-color: black;
+    border: 5px outset red;
+    text-align: center
+}
+
+#box2{
+    background-color: black;
+    border: 5px outset red;
+    text-align: center
+}
+
+#map{
+    height: 400px ;
+}
+
+h1{
+    color : blue;
+    text-align: center;
+    text-shadow: 2px 2px;
+}
